@@ -1,16 +1,4 @@
-# first_app
+# The Arkive
 
-A new Flutter project.
+A play on words combining Augmented Reality (AR) and Archive. The Arkive is a social media based augmented reality scrapbooking platform, developed from scratch as a safe alternative to metaverses for people to document, organise, annotate, and share memories with others through the integration and/or overlaying of real-world content.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
